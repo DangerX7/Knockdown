@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/A.First Scene 1.unity
+    guid: 94a7ca1aa4351b5479a0ebd6408e8315
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: abd59a6820107024b88285049f150ee8
+  - enabled: 1
+    path: Assets/Scenes/Map Menu.unity
+    guid: 571c8641112badd47b9842cf18190d84
+  - enabled: 1
+    path: Assets/Scenes/Skin Select Menu.unity
+    guid: 28ae4a4645de9d64bb4818524aa5bec5
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV0.unity
+    guid: ed9590127fbea0845bec0d287492f1bd
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV1-1.unity
+    guid: 3ded1f0deded8cf4c93d3edcfe06a96c
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV1-2.unity
+    guid: 083ace29d951e944aaf16a4013bb0065
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV1-3.unity
+    guid: f411380f93336f8438bf17adbac734e6
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV1-4.unity
+    guid: fca9bbd7a4132144f89634e31bab9de6
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV1-5.unity
+    guid: d772a65d7471a7648ba1985b2e7c95ec
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV1-6.unity
+    guid: 5aff77b1e0ebb64438bd38e3e9fdc66a
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-1.unity
+    guid: c01077f0b0504504a839a397dcc09668
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-2.unity
+    guid: 309b166f55856c8469a04ed8c137766c
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-3.unity
+    guid: 95b82d0f34c702e429b5edfce54edfa9
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-4.unity
+    guid: 6a7aabb1bf7c1324e88ebfaf6da31d7d
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-5.unity
+    guid: 1c727dd63f356b14689312af9adcb049
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-6.unity
+    guid: e11a8fe5620745243aedd32fe02a8f87
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-7.unity
+    guid: 06a68cda65561a8448fd1d4d52aceb3b
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-8.unity
+    guid: c8315d6b3b7c62944b4f6cd8041cd7b5
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-9.unity
+    guid: ca8dfe5a06b194344acf77a3d51d234e
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-10.unity
+    guid: e813d76f1925ec043b1832c5923000ad
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-11.unity
+    guid: ff9ff4c9da119d4488518aa513bd4698
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV2-12.unity
+    guid: 126dd7e1866023b45b0466eeecb44ba9
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-1.unity
+    guid: 16a1b556e644c154ca3000a72b9f7671
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-2.unity
+    guid: 604f53ba7a8725c40b1bfb1054ce36ba
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-3.unity
+    guid: ab8d0b7327395b141b5d5d3059af2afd
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-4.unity
+    guid: beaf74c12cc4143459171b1d5c52d052
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-5.unity
+    guid: 1481a9af343b1ec4f86877bb974b322c
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-6.unity
+    guid: 5639e94d7cd51294b82ae2f752885267
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-7.unity
+    guid: 395b567aff8d8734ab874a63aeea92f7
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-8.unity
+    guid: 55493521174d2eb4f8678ed4f172b619
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-9.unity
+    guid: 288aa730c141a3049b5ed3e6890427c7
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-10.unity
+    guid: 44fa6193c4893c042aadfcbf364996e5
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-11.unity
+    guid: 1abd36e6a0d15e44e801216ee6738e0e
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-12.unity
+    guid: 633062bd67a80ec49bd225be2a24a465
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-13.unity
+    guid: f943fcc0cb665cc479e3927de82b2f5b
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-14.unity
+    guid: 81655a563eba5a8419a9b5194720313d
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-15.unity
+    guid: de3104f5b42f8dc41bcbc440e6e1b8ca
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV3-16.unity
+    guid: 39aebf9e77eb0b64f89fdbfd251c5c7c
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-1.unity
+    guid: 08e6a172a9874b84ea0de06041a49cba
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-2.unity
+    guid: 2e0e54140bae14142866d54e5eea5147
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-3.unity
+    guid: a0c121af323ad884f86e50cd6682f2e8
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-4.unity
+    guid: 39ddc6c40d7c68e4e89f1b4e13c71dea
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-5.unity
+    guid: 375e5b4e02a611643a1f26a6904164c8
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-6.unity
+    guid: fdd8c024290420645a9ed00f851dadb6
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-7.unity
+    guid: ad1a15451faa0b94f9ff92180fe5bbbb
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-8.unity
+    guid: 1e9e17ca8c6335f4883ee5ccd32fec8f
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-9.unity
+    guid: e397b8a5660ba68458a9b4b3ad22fb0d
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-11.unity
+    guid: d9fd8ace03b94344aa899597850a6c66
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-10.unity
+    guid: a454a5f11273c82408cfb7fd578a118e
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-12.unity
+    guid: 6bc7847dd6005ec46a21a0eb25dcc232
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-13.unity
+    guid: 33bc04bc656e3f74a8e6adf46f5d0062
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV4-14.unity
+    guid: a5127a61f3f7d864587d622d1f92908f
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-1.unity
+    guid: 34637f7da5f2f2349aa5559be686de19
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-2.unity
+    guid: 5013ad2bba38df349b1b4a2dc7fea5ce
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-3.unity
+    guid: 63657ba9bc4398741ba4c8c600bc4968
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-4.unity
+    guid: 374ffeb14b97ae040bb5465adfdf7414
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-5.unity
+    guid: a729c74d5d5ae0c4a9b72cfc2051ae30
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-6.unity
+    guid: 34502647c7361c4438d420e6fd8cece0
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-7.unity
+    guid: ab261cb8a3a78df45a7f5b684952ca25
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-8.unity
+    guid: 98ee51c1546d62f4aa88326f7b9fa165
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-9.unity
+    guid: b8519f750f2f55e4485fb21e70f6d023
+  - enabled: 1
+    path: Assets/Scenes/Arcade/ArLV5-10.unity
+    guid: 7bd9e3e0bb4662c428ddfcd9433e7ce7
+  - enabled: 1
+    path: Assets/Scenes/Skin Select Multiplayer Menu.unity
+    guid: 073a88cfd659a9a49983fdaf1ea6a101
+  - enabled: 1
+    path: Assets/Scenes/Survival.unity
+    guid: e059a53cfca0aff4588f040f9afae31c
+  - enabled: 1
+    path: Assets/Scenes/Gauntlet.unity
+    guid: c9c6406f9945b0646841c8742d8daea9
+  - enabled: 1
+    path: Assets/Scenes/Colosseum.unity
+    guid: ef15ae0ea9368784f9396e6e44d07bb0
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 206d8e94c85a0c7408bf7574e58e8e48
+  - enabled: 1
+    path: Assets/Scenes/Versus.unity
+    guid: 3bc03f0380adede46a92cecab7f8ba5e
+  - enabled: 1
+    path: Assets/Scenes/Dodgeball 2P.unity
+    guid: f0ba86d6f6ebd8640b2702be28a5f848
+  - enabled: 1
+    path: Assets/Scenes/Dodgeball 3P.unity
+    guid: 329361efe149e0a4d8f6ff41cb58bff6
+  - enabled: 1
+    path: Assets/Scenes/Dodgeball 4P.unity
+    guid: e63c8e8b0ca471e4c920217ae773c13e
+  - enabled: 1
+    path: Assets/Scenes/Control.unity
+    guid: 72570ff49245b6c41b3735f48c5e306a
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 97eaa80d8e31ac84bb7853b7f33de3be
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 1 Mode Level 2.unity
+    guid: 2d1e9900702ec3c469f516b262ffde9b
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 1 Mode Level 3.unity
+    guid: aa04fd0fc32dc24409715c24849255e0
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 2 Mode Level 1.unity
+    guid: 1edd24185e3dc744ea2e5bee71510090
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 2 Mode Level 2.unity
+    guid: 91dac61e5478f2c4aa5e00f8c18f7fd0
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 2 Mode Level 3.unity
+    guid: 3efba4eb856c9ba4c8e8a30a58f0da96
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 3 Mode Level 1.unity
+    guid: 4b55789e1f0ba354fbfbb7f0c504d650
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 3 Mode Level 2.unity
+    guid: 87e3ea279687fc84bb21f7c183cba2c2
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 3 Mode Level 3.unity
+    guid: 522d505cd69d5bd4a88fb2d1a14778db
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 4 Mode Level 1.unity
+    guid: 4336da5447fe9af49982ac23a6bc5503
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 4 Mode Level 2.unity
+    guid: 5b05b35fcf931fd409a05a32daaf2d02
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 4 Mode Level 3.unity
+    guid: fe285340d7be58e4cade92bc93acc51b
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 1 Survival.unity
+    guid: b046c0a565cd8474d9aba30094933197
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 2 Survival.unity
+    guid: 7eb494928ac99d546939aa96c8897da7
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 3 Survival.unity
+    guid: bdceec44633ee664484668b584e461be
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 4 Survival.unity
+    guid: 80ae7eb5b55590844bb0ef57ccd5a701
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 1 Gauntlet.unity
+    guid: f6b24dda7dd25b440808f62373ed300a
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 2 Control.unity
+    guid: 5d4390e94c09dc443a47ba0188836ebb
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 2 Dodgeball.unity
+    guid: dde13641d37dffd478df04dc09672970
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 2 Versus.unity
+    guid: c046f93a85b2d7246a8c840de3d5cb40
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 3 Versus.unity
+    guid: 50d23fba5c6a4f34a8fd4d0d961528bf
+  - enabled: 1
+    path: Assets/Scenes/Old/Player 4 Versus.unity
+    guid: eb3a7b7ecb8147a4ebfa722efcd8e1c1
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 0d982d914c5f5ee4d87d51d51db3d49c, type: 2}

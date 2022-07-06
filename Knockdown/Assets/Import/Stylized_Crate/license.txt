@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Crate
+* source:	https://sketchfab.com/3d-models/stylized-crate-e3af60c703a84826adfaf2934b7f8877
+* author:	voxelcubes (https://sketchfab.com/voxelcubes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Crate" (https://sketchfab.com/3d-models/stylized-crate-e3af60c703a84826adfaf2934b7f8877) by voxelcubes (https://sketchfab.com/voxelcubes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

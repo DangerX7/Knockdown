@@ -1,0 +1,11 @@
+Model Information:
+* title:	Basket Ball
+* source:	https://sketchfab.com/3d-models/basket-ball-3f8debf633ed40da8d2d19d64632f98e
+* author:	pamruta (https://sketchfab.com/pamruta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Basket Ball" (https://sketchfab.com/3d-models/basket-ball-3f8debf633ed40da8d2d19d64632f98e) by pamruta (https://sketchfab.com/pamruta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

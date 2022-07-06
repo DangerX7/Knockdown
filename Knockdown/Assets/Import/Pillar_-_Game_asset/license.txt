@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pillar - Game asset
+* source:	https://sketchfab.com/3d-models/pillar-game-asset-03a61c8aa64342b7b718bbb46beed99e
+* author:	Beta-9 (https://sketchfab.com/Beta-9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pillar - Game asset" (https://sketchfab.com/3d-models/pillar-game-asset-03a61c8aa64342b7b718bbb46beed99e) by Beta-9 (https://sketchfab.com/Beta-9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

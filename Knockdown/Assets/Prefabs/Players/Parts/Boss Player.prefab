@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5568556585430755267
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6096024021748311474}
+  - component: {fileID: 6209318810479111663}
+  m_Layer: 0
+  m_Name: Boss Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6096024021748311474
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568556585430755267}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6209318810479111663
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5568556585430755267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03b5a23921e2c8d439dbe8b8580f1af5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelState: 0
+  enemy: 0
+  spawnLock: 0
+  enemySwitch: 0
+  checkEnemy1: 0
+  checkEnemy2: 0
+  checkEnemy3: 0
+  checkEnemy4: 0
+  checkEnemy5: 0
+  checkEnemy6: 0
+  checkEnemy7: 0
+  checkEnemy8: 0
+  checkEnemy9: 0
+  checkEnemy10: 0
+  checkEnemy11: 0
+  checkEnemy12: 0
+  checkEnemy13: 0
+  checkEnemy14: 0
+  checkEnemy15: 0
+  checkEnemy16: 0
+  checkEnemy17: 0
+  checkEnemy18: 0
+  checkEnemy19: 0
+  checkEnemy20: 0
+  checkEnemy21: 0
+  checkEnemy22: 0
+  checkEnemy23: 0
+  checkEnemy24: 0
+  checkEnemy25: 0
+  checkEnemy26: 0
+  checkEnemy27: 0

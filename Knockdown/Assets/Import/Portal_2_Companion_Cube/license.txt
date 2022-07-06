@@ -1,0 +1,11 @@
+Model Information:
+* title:	Portal 2 Companion Cube
+* source:	https://sketchfab.com/3d-models/portal-2-companion-cube-4b04388405e647faa248c0045ed39446
+* author:	DMN.3D (https://sketchfab.com/dmn.3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Portal 2 Companion Cube" (https://sketchfab.com/3d-models/portal-2-companion-cube-4b04388405e647faa248c0045ed39446) by DMN.3D (https://sketchfab.com/dmn.3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

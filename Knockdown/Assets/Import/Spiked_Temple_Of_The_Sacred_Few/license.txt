@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spiked Temple Of The Sacred Few
+* source:	https://sketchfab.com/3d-models/spiked-temple-of-the-sacred-few-6728121b3a234aaf869719935c8f30c9
+* author:	Trockk (https://sketchfab.com/Timrockk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spiked Temple Of The Sacred Few" (https://sketchfab.com/3d-models/spiked-temple-of-the-sacred-few-6728121b3a234aaf869719935c8f30c9) by Trockk (https://sketchfab.com/Timrockk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

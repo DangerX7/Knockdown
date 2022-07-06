@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modular arches
+* source:	https://sketchfab.com/3d-models/modular-arches-478a90aec5944ea88823407d776da483
+* author:	leoyone (https://sketchfab.com/leoyone)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modular arches" (https://sketchfab.com/3d-models/modular-arches-478a90aec5944ea88823407d776da483) by leoyone (https://sketchfab.com/leoyone) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

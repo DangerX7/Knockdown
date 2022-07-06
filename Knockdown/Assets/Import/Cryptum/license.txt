@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cryptum
+* source:	https://sketchfab.com/3d-models/cryptum-b872424e8e344b8faaa9d9ea610b59af
+* author:	Iso-Didact (https://sketchfab.com/Matthew.James.Logothetis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cryptum" (https://sketchfab.com/3d-models/cryptum-b872424e8e344b8faaa9d9ea610b59af) by Iso-Didact (https://sketchfab.com/Matthew.James.Logothetis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

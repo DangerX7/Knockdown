@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4749465636470641873
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4749465636470641875}
+  - component: {fileID: 4749465636470641872}
+  m_Layer: 0
+  m_Name: IntroLoopMaster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4749465636470641875
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4749465636470641873}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1168.959, y: 535.4795, z: 214.45511}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4749465636470641872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4749465636470641873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0732dd6e04ac24232b6910547649f9c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Chapter_1: {fileID: 11400000, guid: a28f478544f47204a9170f76ff8b2a35, type: 2}
+  Chapter_2: {fileID: 11400000, guid: 7176ff112415a904e99e9a706ca04723, type: 2}
+  Chapter_3: {fileID: 11400000, guid: ed69078c1d620014cbee1cab19a82a31, type: 2}
+  Chapter_4: {fileID: 11400000, guid: 86d17b3e4db31794196c19da9859f98b, type: 2}
+  Chapter_5: {fileID: 11400000, guid: 58bce43ff9a647542b080ad931e293c1, type: 2}
+  Control: {fileID: 11400000, guid: fd83c35dcecbf49469a3420e03e75d76, type: 2}
+  Dodgeball: {fileID: 11400000, guid: 44d8ff6296a0cc24b87ac8a3d585ce38, type: 2}
+  Gauntlet: {fileID: 11400000, guid: 73da88447ff6df8419c27b26269fa0ab, type: 2}
+  Map_And_Skin_Menu: {fileID: 11400000, guid: fbf56163f967f734fa76f69a9efec1ee, type: 2}
+  Map_Inclinate: {fileID: 11400000, guid: d920029847ad0314f8f81ec49cc83a80, type: 2}
+  Rotating_Map_Levels_And_Arcade: {fileID: 11400000, guid: 43994a3324466a74f9d4e9da3f05ea66, type: 2}
+  Title_Screen: {fileID: 11400000, guid: 31fa1e717a1723e48a3f2c8750cbf3b9, type: 2}
+  Boss_1: {fileID: 11400000, guid: 47f9df76048046a4d9bee1c2b05da28c, type: 2}
+  Boss_2: {fileID: 11400000, guid: 0208fd26a97fc8642a1149f15ce7abed, type: 2}
+  Boss_3: {fileID: 11400000, guid: 02d035c4d38db494bada5727430c84cf, type: 2}
+  Boss_4: {fileID: 11400000, guid: 1ba918596696eae46aa2f8dd97cf7d8e, type: 2}
+  Boss_5: {fileID: 11400000, guid: 53f1dc2f90ec63a4c8386c8e21c51c42, type: 2}
+  Boss_G: {fileID: 11400000, guid: 9936ad59f17bdd942b454c78938b6195, type: 2}
+  Boss_S: {fileID: 11400000, guid: d089969c48de2f4439d03b3007da993f, type: 2}
+  Extra: {fileID: 11400000, guid: 44d4be6fff5aa6a4a9d1548a3a0462b3, type: 2}
+  maidBattle: {fileID: 11400000, guid: a28f478544f47204a9170f76ff8b2a35, type: 2}
+  assault: {fileID: 0}
+  assaultFade: 0
+  compete: {fileID: 0}
+  competeFade: 0
+  templateForDemoSubclassPlayer: {fileID: 0}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Monkey Temple
+* source:	https://sketchfab.com/3d-models/monkey-temple-90822372f93a40d8baf5fe979e6d618a
+* author:	Captain LowPoly (https://sketchfab.com/captainlowpoly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Monkey Temple" (https://sketchfab.com/3d-models/monkey-temple-90822372f93a40d8baf5fe979e6d618a) by Captain LowPoly (https://sketchfab.com/captainlowpoly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
